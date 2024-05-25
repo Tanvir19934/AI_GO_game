@@ -1,7 +1,7 @@
 # GO-game
 This is a two-player board game popular in Asia. This game is said to be harder than chess. It has significantly more combinations of possible games than chess.
 Computer first won against the world champions in Chess back in 90's. However, it was widely believed that no computer could beat a world champion in GO. In 2016, this belief was shattered when
-AlphaGO, developed by Deepmind, beat the world champion in GO. Read more: https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol
+AlphaGO, developed by Deepmind, beat the world champion in GO. Read more: https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol.
 
 AlphaGO's algorithm is mainly based on reinforcement learning and monte carlo tree search. In this project, I developed a simple 5*5 GO game.
 
