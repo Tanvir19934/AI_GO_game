@@ -15,7 +15,7 @@ Enjoy!!!
 
 # How to run the game
 
-Run host.py and follow the prompts to set the type of players.
+Run `host.py` and follow the prompts to set the type of players.
 
 You can play with a friend, computer (easy/hard), or start a game between two instances of computer.
 
