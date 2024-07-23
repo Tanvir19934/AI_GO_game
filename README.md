@@ -5,7 +5,7 @@ AlphaGO, developed by Deepmind, beat the world champion in GO. Read more: https:
 
 AlphaGO's algorithm is mainly based on reinforcement learning and monte carlo tree search. In this project, I developed a simple 5*5 GO game.
 
-You can play with a friend, computer easy mode, and computer hard mode, or you can just start a game between two computers (easy vs easy or easy vs hard or hard vs hard). __Just run host.py and follow the prompts to set the player.__
+You can play with a friend, computer easy mode, and computer hard mode, or you can just start a game between two computers (easy vs easy or easy vs hard or hard vs hard). __Just run `host.py` and follow the prompts to set the player.__
 
 In the easy mode, the computer just places a stone randomly. I created the hard mode using the minimax algorithm; which can play pretty well (I was never able to beat the hard mode, but I suck at GO anyway :( )
 
